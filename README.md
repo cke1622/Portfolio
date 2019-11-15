@@ -5,10 +5,10 @@ List of projects I have worked on
 
 Past Projects
 
-Horde Mentality
-4 person group project during first year
-Digital game in C#
-I designed and implemented the UI
+Horde Mentality.
+4 person group project during first year.
+Digital game in C#.
+I designed and implemented the UI.
 
 Abolishing the false arts
 5 person group project during third year
@@ -17,28 +17,28 @@ I work with another group member to create the class, heritic, and tresure cards
 
 Assault of the Wolfwaffen
 5 person group project during third year
-Digital game
-I was a all around helper, from code to level design I assisted the other 4 group members with what ever they needed assistance with
+Digital game in C# in Unity.
+I was a all around helper, from code to level design I assisted the other 4 group members with what ever they needed assistance with.
 
-Archive Assault
-4 person group project during third year
-Anolog game
-I was in charge of the design and balancing troops with one other group member
+Archive Assault.
+4 person group project during third year.
+Anolog game.
+I was in charge of the design and balancing troops with one other group member.
 
-Eldritch Dice
-4 person group project during third year
-Anolog game
-I was in charge of the design and balancing of the encounters
+Eldritch Dice.
+4 person group project during third year.
+Anolog game.
+I was in charge of the design and balancing of the encounters.
 
 https://people.rit.edu/~ctb4332/230/project2/Blackjack/blackjack.html
-Dark Souls themed 13 card blackjack
-2 person group project during second year
-Digital game
-I was the designer of the cards, UI, and layout of the game
+Dark Souls themed 13 card blackjack.
+2 person group project during second year.
+Digital game in JAVAScript.
+I was the designer of the cards, UI, and layout of the game.
 
 Current Project
 
-CarPG
-4 person group project ongoing
-Digital game
-I am in charge of the design and implementation of the dungeon level
+CarPG.
+4 person group project ongoing.
+Digital game in C# in Unity.
+I am in charge of the design and implementation of the dungeon level.
