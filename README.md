@@ -36,7 +36,8 @@ Dark Souls themed 13 card blackjack
 Digital game
 I was the designer of the cards, UI, and layout of the game
 
-Current
+Current Project
+
 CarPG
 4 person group project ongoing
 Digital game
