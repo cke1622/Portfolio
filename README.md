@@ -5,7 +5,7 @@ List of projects I have worked on
 
 Past Projects
 
-Horde Mentality
+Horde Mentality<div>
 4 person group project during first year
 Digital game in C#
 I designed and implemented the UI
